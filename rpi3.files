@@ -1,0 +1,17 @@
+CustomLabel.qml
+Dialog.qml
+Heating.qml
+HeatingForm.ui.qml
+Light.qml
+LightForm.ui.qml
+PageBackground.qml
+Security.qml
+SecurityForm.ui.qml
+SideBar.qml
+SideBarForm.ui.qml
+deployment.pri
+main.cpp
+main.qml
+qml.qrc
+qtquickcontrols2.conf
+qtquickctl_app4.pro
